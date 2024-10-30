@@ -10,7 +10,6 @@ The Employee App is a web application built with ReactJS that allows users to ma
 - **Employee Management**: Create, read, update, and delete (CRUD) operations for employee data.
 - **Responsive Design**: Mobile-friendly layout that ensures usability across different devices.
 - **Search Functionality**: Easily search for employees using specific criteria.
-- **Detailed Views**: View detailed information about each employee.
 
 ## Technologies Used
 
